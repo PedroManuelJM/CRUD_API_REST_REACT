@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+#nav-color {
+background: #000428;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #004e92, #000428);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #004e92, #000428); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.navbar-brand {
+  color: rgb(239 82 82 / 90%) !important;
+}
+#footer  {
+background: #000428;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #004e92, #000428);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #004e92, #000428); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+color: white;
+}
+.padded{
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+.min-padded{
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-left: 15px;
+}
+#tabla-categorias{
+padding-bottom: 70px;
+padding-top: 70px;
+
+}
+
+.table{
+  width:750px;
+}
