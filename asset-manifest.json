@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CRUD_API_REST_REACT/static/css/main.53ecb519.chunk.css",
+    "main.js": "/CRUD_API_REST_REACT/static/js/main.c4f878cc.chunk.js",
+    "main.js.map": "/CRUD_API_REST_REACT/static/js/main.c4f878cc.chunk.js.map",
+    "runtime-main.js": "/CRUD_API_REST_REACT/static/js/runtime-main.745daa3c.js",
+    "runtime-main.js.map": "/CRUD_API_REST_REACT/static/js/runtime-main.745daa3c.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/CRUD_API_REST_REACT/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.38fc9ab9.chunk.js": "/CRUD_API_REST_REACT/static/js/2.38fc9ab9.chunk.js",
+    "static/js/2.38fc9ab9.chunk.js.map": "/CRUD_API_REST_REACT/static/js/2.38fc9ab9.chunk.js.map",
+    "static/js/3.5646f8f4.chunk.js": "/CRUD_API_REST_REACT/static/js/3.5646f8f4.chunk.js",
+    "static/js/3.5646f8f4.chunk.js.map": "/CRUD_API_REST_REACT/static/js/3.5646f8f4.chunk.js.map",
+    "index.html": "/CRUD_API_REST_REACT/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/CRUD_API_REST_REACT/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.53ecb519.chunk.css.map": "/CRUD_API_REST_REACT/static/css/main.53ecb519.chunk.css.map",
+    "static/js/2.38fc9ab9.chunk.js.LICENSE.txt": "/CRUD_API_REST_REACT/static/js/2.38fc9ab9.chunk.js.LICENSE.txt",
+    "static/media/chatbot.b9347b82.svg": "/CRUD_API_REST_REACT/static/media/chatbot.b9347b82.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.745daa3c.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.38fc9ab9.chunk.js",
+    "static/css/main.53ecb519.chunk.css",
+    "static/js/main.c4f878cc.chunk.js"
+  ]
+}
